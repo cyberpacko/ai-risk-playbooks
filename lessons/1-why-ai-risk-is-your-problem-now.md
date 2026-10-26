@@ -1,6 +1,5 @@
-## Lesson 1 — Why AI Risk Is Your Problem Now
+## Lesson 1 - Why AI Risk Is Your Problem Now
 
-*Module 1 · Day 1 (Foundation + Frameworks)*
 
 > **Source note:** This lesson is built from the public syllabus of *Owning AI Risk: Hands-On Playbooks* (Antisyphon Training) and from Kip Boyle's public material: the book *Gears Don't Guess* and the  Cyber Risk Management Podcast episodes 181, 210, 212 and 219. 
 
